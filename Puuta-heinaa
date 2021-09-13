@@ -3,7 +3,9 @@
 <title>Puuta-heinää</title>
 <head>
 <style>
-
+header {
+background-color:pink;
+}
 
 
 
